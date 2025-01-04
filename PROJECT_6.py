@@ -1,5 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
-
 # Loads data for both books and movies, returning a dictionary with two keys, 'books' and 'movies', one for
 # each subset of the collection.
 def load_collections():
