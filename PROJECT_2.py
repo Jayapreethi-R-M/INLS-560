@@ -1,4 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
 print("Welcome to the Compound Interest Calculator.")
 
 # Following are the code to input the initial set of values for final account balance calculator
