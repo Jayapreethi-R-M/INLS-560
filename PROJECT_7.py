@@ -1,5 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
-
 from battleship import BattleshipGame
 
 # Ask the user how many players will be playing the game.
