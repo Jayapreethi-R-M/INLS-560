@@ -1,4 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
 #To import the random function from the library
 import random
 
