@@ -1,4 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
 # The BattleshipGame class is the top level class.
 # A game is created for 1 or 2 players, then the game is played until there is a winner.
 import random
