@@ -1,5 +1,3 @@
-__author__ = 'Jayapreethi Radhakrishnan Madanraj, jayam@ad.unc.edu, Onyen = jayam'
-
 # Asking the user to enter their selection between one number and a range
 single_or_range = input("Enter 'single' or 'range' to solve for a single square root or a range of values, respectively: ")
 
